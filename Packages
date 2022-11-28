@@ -8,7 +8,7 @@ SHA256:fe106d4a11e29b9f3f03a4c991954d8026e2d4b0029d8c174a101479b2150162
 Size:120014
 MD5sum:d41cfdc2c954919765ccfe11d2344234
 Description: Lê Tân
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: letan <letan@gmail.com>
 Author: Lê Tân
@@ -24,7 +24,7 @@ SHA256:0043ede62d790cdfb7dd0c55c956b293306f6cd01b70dad29867fc115ec220e6
 Size:130350
 MD5sum:ba724171451451dc1af83bf89849d367
 Description: Lê Tân
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: letan <letan@gmail.com>
 Installed-Size: 456
