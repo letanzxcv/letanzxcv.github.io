@@ -1,0 +1,57 @@
+Package: com.letanzxcv.letan_xa
+Name: Lê Tân Xả
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/letan_xa.deb
+SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
+SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
+Size:119214
+MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+Description: Lê Tân
+Author: letan <letan@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: letan <letan@gmail.com>
+Author: Lê Tân
+
+Package: com.letanzxcv.letan_nap
+Name: Lê Tân Nạp
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/letan_nap.deb
+SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
+SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
+Size:119214
+MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+Description: Lê Tân
+Author: letan <letan@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: letan <letan@gmail.com>
+Author: Lê Tân
+
+Package: com.letanzxcv.xa_new2
+Name: Lê Tân Xả New 2
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/xa_new2.deb
+SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
+SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
+Size:119214
+MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+Description: Lê Tân
+Author: letan <letan@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: letan <letan@gmail.com>
+Author: Lê Tân
+
+
+
+
+
+
+
+
+
+
