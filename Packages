@@ -1,50 +1,50 @@
-Package: com.letanzxcv.letan_xa
+Package: com.letanzxcv.letanxa
 Name: Lê Tân Xả
-Version: 2.0
+Version: 0.0.1-78+debug
 Architecture: iphoneos-arm
 Filename: ./debs/letan_xa.deb
-SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
-SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
-Size:119214
-MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+SHA1:5a2d0db58a2eae37ea4baade896ec36860496079
+SHA256:fe106d4a11e29b9f3f03a4c991954d8026e2d4b0029d8c174a101479b2150162
+Size:120014
+MD5sum:d41cfdc2c954919765ccfe11d2344234
 Description: Lê Tân
-Author: letan <letan@gmail.com>
 Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: letan <letan@gmail.com>
 Author: Lê Tân
+Installed-Size: 444
 
-Package: com.letanzxcv.letan_nap
+Package: com.letanzxcv.letannap
 Name: Lê Tân Nạp
-Version: 2.0
+Version: 0.0.1-59+debug
 Architecture: iphoneos-arm
 Filename: ./debs/letan_nap.deb
-SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
-SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
-Size:119214
-MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+SHA1:81e330e7471b3c3d2a3824741900630be9eca222
+SHA256:0043ede62d790cdfb7dd0c55c956b293306f6cd01b70dad29867fc115ec220e6
+Size:130350
+MD5sum:ba724171451451dc1af83bf89849d367
 Description: Lê Tân
-Author: letan <letan@gmail.com>
 Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: letan <letan@gmail.com>
+Installed-Size: 456
 Author: Lê Tân
 
-Package: com.letanzxcv.xa_new2
+Package: com.letanzxcv.xanew2
 Name: Lê Tân Xả New 2
-Version: 2.0
+Version: 0.0.1-187
 Architecture: iphoneos-arm
-Filename: ./debs/xa_new2.deb
-SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
-SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
-Size:119214
-MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+Filename: ./debs/letanxa_new2.deb
+SHA1:7fd0c56b9f6f67687c6cf659a4245c834a27b12a
+SHA256:4d80a2b7976aeb72470511f8ea3646854713030b44958c70ac815491ebf77f5a
+Size:770434
+MD5sum:3c43b0525c14f0a6ea8521ded3718b85
 Description: Lê Tân
-Author: letan <letan@gmail.com>
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: letan <letan@gmail.com>
 Author: Lê Tân
+Installed-Size: 1848
 
 
 
